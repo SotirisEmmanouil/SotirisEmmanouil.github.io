@@ -1,0 +1,65 @@
+
+body{
+    background-color: black;
+
+}
+
+#name{
+    position: absolute;
+    font-size: 25px;
+    left: 30px;
+    font-family:'Courier New', Courier, monospace;
+    color: aqua;
+
+}
+
+#about{
+    font-size: 25px;
+    position: absolute;
+    left: 20px;
+    top: 150px;
+    font-family:'Courier New', Courier, monospace;
+    color:aqua; 
+
+}
+
+#skills{
+    position: absolute;
+    font-size: 30px;
+    top: 350px;
+    left:50px;
+    font-family:'Courier New', Courier, monospace;
+    color: cyan;
+
+}
+
+#skilllist{
+    position: absolute;
+    font-size: 30px;
+    top: 400px;
+    left:50px;
+    font-family:'Courier New', Courier, monospace;
+    color: cyan;
+
+
+}
+
+#projects{
+    position: absolute;
+    font-size: 30px;
+    top: 350px;
+    left:500px;
+    font-family:'Courier New', Courier, monospace;
+    color: cyan;
+
+}
+
+#projectlist{
+    position: absolute;
+    font-size: 30px;
+    top: 400px;
+    left:500px;
+    font-family:'Courier New', Courier, monospace;
+    color: cyan;
+
+}
