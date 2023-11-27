@@ -1,6 +1,7 @@
 
 body{
     background-color: black;
+    height: 1000px;
 
 }
 
@@ -26,7 +27,7 @@ body{
 #skills{
     position: absolute;
     font-size: 30px;
-    top: 350px;
+    top: 550px;
     left:50px;
     font-family:'Courier New', Courier, monospace;
     color: cyan;
@@ -36,7 +37,7 @@ body{
 #skilllist{
     position: absolute;
     font-size: 30px;
-    top: 400px;
+    top: 600px;
     left:50px;
     font-family:'Courier New', Courier, monospace;
     color: cyan;
@@ -47,8 +48,8 @@ body{
 #projects{
     position: absolute;
     font-size: 30px;
-    top: 350px;
-    left:500px;
+    top: 550px;
+    left:700px;
     font-family:'Courier New', Courier, monospace;
     color: cyan;
 
@@ -57,8 +58,8 @@ body{
 #projectlist{
     position: absolute;
     font-size: 30px;
-    top: 400px;
-    left:500px;
+    top: 600px;
+    left:700px;
     font-family:'Courier New', Courier, monospace;
     color: cyan;
 
