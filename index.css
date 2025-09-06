@@ -48,7 +48,7 @@ html, body{
 #projects{
     position: absolute;
     font-size: 30px;
-    top: 500px;
+    top: 400px;
     left:500px;
     font-family:'Courier New', Courier, monospace;
     color: cyan;
@@ -58,7 +58,7 @@ html, body{
 #projectlist{
     position: absolute;
     font-size: 30px;
-    top: 550px;
+    top: 450px;
     left:500px;
     font-family:'Courier New', Courier, monospace;
     color: cyan;
