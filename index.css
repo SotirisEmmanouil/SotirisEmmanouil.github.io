@@ -27,7 +27,7 @@ html, body{
 #skills{
     position: absolute;
     font-size: 30px;
-    top: 750px;
+    top: 730px;
     left:50px;
     font-family:'Courier New', Courier, monospace;
     color: cyan;
@@ -36,7 +36,7 @@ html, body{
 
 #skilllist{
     position: absolute;
-    top: 780px;
+    top: 760px;
     left:50px;
     font-size: 30px;
     font-family:'Courier New', Courier, monospace;
