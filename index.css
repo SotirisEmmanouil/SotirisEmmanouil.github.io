@@ -36,6 +36,7 @@ html, body{
 
 #skilllist{
     position: absolute;
+    top: 720px;
     font-size: 30px;
     font-family:'Courier New', Courier, monospace;
     color: cyan;
