@@ -49,7 +49,7 @@ html, body{
 #projects{
     position: absolute;
     font-size: 30px;
-    top: 470px;
+    top: 490px;
     left:530px;
     font-family:'Courier New', Courier, monospace;
     color: cyan;
@@ -59,7 +59,7 @@ html, body{
 #projectlist{
     position: absolute;
     font-size: 30px;
-    top: 520px;
+    top: 540px;
     left:530px;
     font-family:'Courier New', Courier, monospace;
     color: cyan;
